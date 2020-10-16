@@ -1,7 +1,7 @@
 const React = require("react")
 const Layout = require("./src/components/layout")
 
-require("prismjs/themes/prism-solarizedlight.css")
+require("prismjs/themes/prism-coy.css")
 
 // Logs when the client route changes
 exports.onRouteUpdate = ({ location, prevLocation }) => {
