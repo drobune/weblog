@@ -1,5 +1,5 @@
 const React = require("react")
-const Layout = require("./src/components/layout")
+const Layout = require("./src/components/layout").default
 
 require("prismjs/themes/prism-coy.css")
 

@@ -4,16 +4,16 @@ date: "2032-05-04"
 title: "test blog post"
 ---
 
-      ```javascript
-      // In your gatsby-config.js
+```javascript
+// In your gatsby-config.js
+plugins: [
+  {
+    resolve: `gatsby-transformer-remark`,
+    options: {
       plugins: [
-      {
-        resolve: \`gatsby-transformer-remark\`,
-        options: {
-        plugins: [
-        \`gatsby-remark-prismjs\`,
-        ]
-      }
-      }
+        `gatsby-remark-prismjs`,
       ]
-      ```
+    }
+  }
+]
+```
