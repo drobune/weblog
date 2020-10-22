@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Your Site's RSS Feed]]></title><description><![CDATA[Your Site's RSS Feed]]></description><link>https://blog.drobune.nl</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 22 Oct 2020 01:20:30 GMT</lastBuildDate><item><title><![CDATA[test blog post]]></title><link>https://blog.drobune.nl/test/</link><guid isPermaLink="false">https://blog.drobune.nl/test/</guid><pubDate>Tue, 04 May 2032 00:00:00 GMT</pubDate><content:encoded>&lt;pre&gt;&lt;code class=&quot;language-javascript&quot;&gt;// In your gatsby-config.js
+plugins: [
+  {
+    resolve: `gatsby-transformer-remark`,
+    options: {
+      plugins: [
+        `gatsby-remark-prismjs`,
+      ]
+    }
+  }
+]
+&lt;/code&gt;&lt;/pre&gt;</content:encoded></item></channel></rss>
