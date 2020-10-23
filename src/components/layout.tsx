@@ -1,8 +1,7 @@
-import React from "react"
+import * as React from "react"
 import {Helmet} from "react-helmet"
 
-export default function Layout({ children }) {
-  return (
+const Layout: React.FC = ({ children }) => (
     <div style={{ margin: `0 auto`, maxWidth: 650, padding: `0 1rem` }}>
       <Helmet>
         <title>"DROBUNE weblog"</title>
@@ -16,5 +15,6 @@ export default function Layout({ children }) {
       </Helmet>
       {children}
     </div>
-  )
-}
+)
+
+export default Layout

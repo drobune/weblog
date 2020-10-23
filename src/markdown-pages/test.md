@@ -2,6 +2,7 @@
 slug: "/blog/test"
 date: "2032-05-04"
 title: "test blog post"
+tags: ["curry", "sushi", "pizza"]
 ---
 
 ```javascript
