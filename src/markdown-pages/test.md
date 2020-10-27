@@ -6,6 +6,10 @@ tags: ["curry", "sushi", "pizza"]
 ---
 
 ```javascript
+var test = "aaa";
+```
+
+```javascript
 // In your gatsby-config.js
 plugins: [
   {
