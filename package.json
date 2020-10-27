@@ -31,7 +31,8 @@
     "react-dom": "^16.12.0",
     "react-helmet": "^6.1.0",
     "react-typography": "^0.16.19",
-    "typography": "^0.16.19"
+    "typography": "^0.16.19",
+    "typography-theme-st-annes": "^0.16.19"
   },
   "devDependencies": {
     "gh-pages": "^3.1.0",

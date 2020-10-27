@@ -1,8 +1,13 @@
 import Typography from "typography"
-//import grandViewTheme from "typography-theme-grand-view"
+import Theme from "typography-theme-st-annes"
 
-//const typography = new Typography(grandViewTheme)
-const typography = new Typography()
+Theme.googleFonts.push({
+  name: "Noto+Sans+JP",
+  styles: ["400"],
+})
+Theme.bodyFontFamily = ["Noto Sans JP", "serif"]
+const typography = new Typography(Theme)
+
 
 // Export helper functions
 export const { scale, rhythm, options } = typography
