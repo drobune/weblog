@@ -12,7 +12,8 @@ export default function Home() {
 export default function Home() {
   return (
     <Layout>
-      <h1>I’m in a layout!</h1>
+      <h1>DROBUNE Weblogs</h1>
+
     </Layout>
   );
 }
