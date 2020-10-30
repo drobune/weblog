@@ -153,6 +153,24 @@ module.exports = {
         path: `${__dirname}/src/markdown-pages`,
         name: `markdown-pages`,
       },
-    }
+    },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-102174140-1",
+        head: false,
+        anonymize: true,
+        respectDNT: true,
+        exclude: [],
+        pageTransitionDelay: 0,
+        optimizeId: "",
+        experimentId: "",
+        variationId: "",
+        defer: false,
+        sampleRate: 5,
+        siteSpeedSampleRate: 10,
+        cookieDomain: "drobune.nl",
+      },
+    },
   ]
 }
