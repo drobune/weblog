@@ -9,7 +9,6 @@ interface Props {
 }
 
 const Tags = ({ pageContext, data }: Props) => {
-  console.log("eieiei")
   const { tag } = pageContext
   const { edges, totalCount } = data.allMarkdownRemark
   const tagHeader = `${totalCount} post${
