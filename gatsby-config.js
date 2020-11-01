@@ -9,7 +9,7 @@ module.exports = {
   siteMetadata: {
     siteUrl: `https://blog.drobune.nl`,
   },
-  pathPrefix: "/weblog",
+  pathPrefix: "",
   plugins: [
     {
       resolve: `gatsby-plugin-typescript`,
