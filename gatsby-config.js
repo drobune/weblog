@@ -172,5 +172,11 @@ module.exports = {
         cookieDomain: "drobune.nl",
       },
     },
+    {
+      resolve: `gatsby-plugin-google-adsense`,
+      options: {
+        publisherId: `ca-pub-3581464767574587`
+      },
+    },
   ]
 }
