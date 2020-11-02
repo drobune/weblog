@@ -1,13 +1,14 @@
 ---
-slug: "/blog/test"
-date: "2032-05-04"
-title: "test blog post"
-tags: ["curry", "sushi", "pizza"]
+slug: "/blog/gatsby"
+date: "2020-10-31"
+title: "blogをGatsybyにした"
+tags: ["javascript", "blog", "gatsby", "CMS"]
 ---
 
-```javascript
-var test = "aaa";
-```
+
+
+
+
 
 ```javascript
 // In your gatsby-config.js

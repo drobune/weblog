@@ -22,6 +22,11 @@ const IndexPage = ({
   <Layout>
     <h1>DROBUNE Weblogs</h1>
     <div>{Posts}</div>
+    <div>
+      <p style={{fontSize: "small", marginTop: "2rem"}}><br/>
+      当ブログはamzon.co.jpを宣伝しリンクすることによってサイトが紹介料を獲得できる手段を提供することを目的に設定されたアフィリエイト宣伝プログラムである、 Amazonアソシエイト・プログラムの参加者です。
+      </p>
+    </div>
   </Layout>)
 }
 
