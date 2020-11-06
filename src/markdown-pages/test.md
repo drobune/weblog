@@ -5,10 +5,12 @@ title: "blogをGatsybyにした"
 tags: ["javascript", "blog", "gatsby", "CMS"]
 ---
 
+### リポジトリ
+https://github.com/drobune/weblog
 
 
 
-
+### シンタックスハイライト
 
 ```javascript
 // In your gatsby-config.js
