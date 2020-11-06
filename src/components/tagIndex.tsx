@@ -19,17 +19,12 @@ const TagIndex = () => {
         {group.map((node ) => {
           const tagName = node.fieldValue
           return (
-            <div key={tagName}>
-              <Link to={`/tags/${tagName}`}>#{tagName}</Link>
-            </div>
+            <span key={tagName}>
+              <Link to={`/tags/${tagName}`}>#{tagName}&nbsp;</Link>
+            </span>
           )
         })}
       </ul>
-      {/*
-              This links to a page that does not yet exist.
-              You'll come back to it!
-            */}
-      <Link to="/">Home</Link>
     </div>
   )
 }
