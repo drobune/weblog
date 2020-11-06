@@ -68,4 +68,10 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
       },
     })
   })
+
+  const tagList = path.resolve("src/pages/tags.tsx")
+  createPage({
+    path: '/tags',
+    component: tagList
+  })
 }
