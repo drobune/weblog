@@ -1,5 +1,5 @@
 ---
-title: 'undefined'
+title: '2014-11-05'
 slug: "/blog/blog-post_5"
 date: 2014-11-05T14:37:00.000+09:00
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: 'undefined'
+title: '2015-06-23'
 slug: "/blog/how-to-convert-your-van-into-camper"
 date: 2015-06-23T06:41:00.000+09:00
 draft: false

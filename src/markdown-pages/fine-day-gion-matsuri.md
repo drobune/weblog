@@ -1,5 +1,5 @@
 ---
-title: 'undefined'
+title: '2015-07-15'
 slug: "/blog/fine-day-gion-matsuri"
 date: 2015-07-15T16:22:00.000+09:00
 draft: false

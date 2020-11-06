@@ -1,5 +1,5 @@
 ---
-title: 'undefined'
+title: '2015-04-12'
 slug: "/blog/i-saw-this-movie-last-night-there-style"
 date: 2015-04-12T06:25:00.000+09:00
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: 'undefined'
+title: '2015-05-10'
 slug: "/blog/super-street-fighter-ii-capcom-co"
 date: 2015-05-10T17:07:00.000+09:00
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: 'undefined'
+title: '2012-09-23'
 slug: "/blog/tokyo-station-vision-3d-projection"
 date: 2012-09-23T11:01:00.000+09:00
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: 'undefined'
+title: '2015-06-08'
 slug: "/blog/fairly-normal-creed-mctaggart-from-what"
 date: 2015-06-08T03:35:00.000+09:00
 draft: false

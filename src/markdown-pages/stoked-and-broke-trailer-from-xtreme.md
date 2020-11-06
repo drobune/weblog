@@ -1,5 +1,5 @@
 ---
-title: 'undefined'
+title: '2015-06-17'
 slug: "/blog/stoked-and-broke-trailer-from-xtreme"
 date: 2015-06-17T07:24:00.000+09:00
 draft: false

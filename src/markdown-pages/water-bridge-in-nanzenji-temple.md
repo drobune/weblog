@@ -1,5 +1,5 @@
 ---
-title: 'undefined'
+title: '2015-06-21'
 slug: "/blog/water-bridge-in-nanzenji-temple"
 date: 2015-06-21T15:28:00.000+09:00
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: 'undefined'
+title: '2015-04-12'
 slug: "/blog/this-is-very-sad-but-meaningfull-for-my"
 date: 2015-04-12T06:52:00.000+09:00
 draft: false
