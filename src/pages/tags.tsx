@@ -1,13 +1,12 @@
 import React from "react"
-import Layout from "../components/layout"
 import TagIndex from "../components/tagIndex"
 
 const TagsPage = () => {
   return(
-  <Layout>
+  <div>
     <h1>Tag Lists</h1>
     <TagIndex/>
-  </Layout>)
+  </div>)
 }
 
 export default TagsPage

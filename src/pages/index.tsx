@@ -1,5 +1,4 @@
 import React from "react"
-import Layout from "../components/layout"
 import PostLink, {PostData} from "../components/postlink"
 import { graphql, Link } from "gatsby"
 import TagIndex from "../components/tagIndex"
@@ -19,8 +18,8 @@ const IndexPage = ({
     .filter(edge => !!edge.node.frontmatter.date) // You can filter your posts based on some criteria
     .map(edge => <PostLink key={edge.node.id} post={edge.node}/>)
   return(
-  <Layout>
-    <h1>DROBUNE Weblogs</h1>
+  <div>
+    <h1>DROBUNE Weblog</h1>
     <h3>Posts</h3>
     <div>{Posts}</div>
     <h3>Tags</h3>
@@ -32,7 +31,7 @@ const IndexPage = ({
       当ブログはamzon.co.jpを宣伝しリンクすることによってサイトが紹介料を獲得できる手段を提供することを目的に設定されたアフィリエイト宣伝プログラムである、 Amazonアソシエイト・プログラムの参加者です。
       </p>
     </div>
-  </Layout>)
+  </div>)
 }
 
 export default IndexPage
@@ -48,7 +47,7 @@ export const pageQuery = graphql`
           id
           excerpt(pruneLength: 250)
           frontmatter {
-            date(formatString: "MMMM DD, YYYY")
+            date(formatString: "YYYY-MM-DD")
             slug
             title
           }

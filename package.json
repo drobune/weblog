@@ -16,6 +16,8 @@
   },
   "dependencies": {
     "@types/react-helmet": "^6.1.0",
+    "@types/styled-components": "^5.1.4",
+    "babel-plugin-styled-components": "^1.11.1",
     "gatsby": "^2.24.67",
     "gatsby-plugin-feed": "^2.5.14",
     "gatsby-plugin-google-adsense": "^1.1.3",
@@ -24,6 +26,7 @@
     "gatsby-plugin-offline": "^3.2.32",
     "gatsby-plugin-react-helmet": "^3.3.14",
     "gatsby-plugin-sitemap": "^2.4.17",
+    "gatsby-plugin-styled-components": "^3.3.14",
     "gatsby-plugin-typography": "^2.5.13",
     "gatsby-remark-prismjs": "^3.5.16",
     "gatsby-source-filesystem": "^2.3.34",
@@ -33,6 +36,7 @@
     "react-dom": "^16.12.0",
     "react-helmet": "^6.1.0",
     "react-typography": "^0.16.19",
+    "styled-components": "^5.2.1",
     "typography": "^0.16.19",
     "typography-theme-st-annes": "^0.16.19"
   },

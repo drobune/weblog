@@ -1,7 +1,10 @@
 import * as React from "react"
 import {Helmet} from "react-helmet"
+import Navbar from "./navBar"
 
 const Layout: React.FC = ({ children }) => (
+  <div>
+    <Navbar/>
     <div style={{ margin: `0 auto`, maxWidth: 650, padding: `0 1rem` }}>
       <Helmet>
         <title>"DROBUNE weblog"</title>
@@ -15,6 +18,7 @@ const Layout: React.FC = ({ children }) => (
       </Helmet>
       {children}
     </div>
+  </div>
 )
 
 export default Layout
