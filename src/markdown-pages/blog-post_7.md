@@ -7,4 +7,4 @@ aliases: [ "/2012/10/blog-post_7.html" ]
 tags : [video]
 ---
 
-またまたほっとかれへんなぁ・・Cher Lloyd - Want U Back (US Version) (by [Cherlloydvevo](http://www.youtube.com/watch?v=LPgvNlrBfb0&feature=share))
+またまたほっとかれへんなぁ・・Cher Lloyd - Want U Back (US Version) (by [Cherlloydvevo](https://www.youtube.com/watch?v=LPgvNlrBfb0&feature=share))

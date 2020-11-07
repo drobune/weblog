@@ -6,15 +6,15 @@ draft: false
 aliases: [ "/2017/10/keen.html" ]
 ---
 
-以前 [子供の靴が臭い話](http://blog.drobune.nl/2017/09/blog-post_27.html) の続き。  
+以前 [子供の靴が臭い話](https://blog.drobune.nl/2017/09/blog-post_27.html) の続き。  
   
 keenのニューポートを買おうと思っていたけど濡れると寒いだろうとおもってジャスパーを買った。  
 6000円ちょっとなので子供靴にしては高め。まぁ小学生ならいいかなという値段。  
 臭くなったりすぐボロボロになるよりマシ。  
   
-[![](https://images-fe.ssl-images-amazon.com/images/I/41ZUZ8Ge5-L._SL75_.jpg)](http://www.amazon.co.jp/exec/obidos/ASIN/B01920TQTO/5an0-22/)  
+[![](https://images-fe.ssl-images-amazon.com/images/I/41ZUZ8Ge5-L._SL75_.jpg)](https://www.amazon.co.jp/exec/obidos/ASIN/B01920TQTO/5an0-22/)  
 
-[\[キーン\] KEEN キッズ スニーカー Jasper Midnight Navy/Macaw 22cm(US 3) | 1015207](http://www.amazon.co.jp/exec/obidos/ASIN/B01920TQTO/5an0-22/)
+[\[キーン\] KEEN キッズ スニーカー Jasper Midnight Navy/Macaw 22cm(US 3) | 1015207](https://www.amazon.co.jp/exec/obidos/ASIN/B01920TQTO/5an0-22/)
 
 KEEN
 

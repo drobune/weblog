@@ -8,7 +8,7 @@ tags : [surf, サーフィン, 磯ノ浦, photo]
 ---
 
   
-![](http://68.media.tumblr.com/11cf153daedbb8faa3f19c2a67812da8/tumblr_nrckteOWhp1rwrdpxo1_1280.jpg)  
+![](https://68.media.tumblr.com/11cf153daedbb8faa3f19c2a67812da8/tumblr_nrckteOWhp1rwrdpxo1_1280.jpg)  
 
   
   

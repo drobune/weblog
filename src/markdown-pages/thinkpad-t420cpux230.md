@@ -19,9 +19,9 @@ tags : [PC, 仕事]
   
   
 
-[![](https://images-fe.ssl-images-amazon.com/images/I/51eAUSGyKyL._SL75_.jpg)](http://www.amazon.co.jp/exec/obidos/ASIN/B00QHYXS5W/5an0-22/)
+[![](https://images-fe.ssl-images-amazon.com/images/I/51eAUSGyKyL._SL75_.jpg)](https://www.amazon.co.jp/exec/obidos/ASIN/B00QHYXS5W/5an0-22/)
 
-[【中古】 ThinkPad X230 2324-A82 / CPU:Core i5 3320M(2.6GHz) / 12.5インチ / 解像度:FWXGA(1366x768) / Win7 Pro 32bit](http://www.amazon.co.jp/exec/obidos/ASIN/B00QHYXS5W/5an0-22/)
+[【中古】 ThinkPad X230 2324-A82 / CPU:Core i5 3320M(2.6GHz) / 12.5インチ / 解像度:FWXGA(1366x768) / Win7 Pro 32bit](https://www.amazon.co.jp/exec/obidos/ASIN/B00QHYXS5W/5an0-22/)
 
 lenovo
 

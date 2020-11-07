@@ -23,7 +23,7 @@ twilogを使って過去ツイートを検索していて不便だなと思う�
 [![](https://gyazo.com/514a5b5e53162725cafeaf96de252c7a.png)](https://gyazo.com/514a5b5e53162725cafeaf96de252c7a.png)
 
   
-scrapbox用ハッシュタグを作りたくて [MeCab](http://taku910.github.io/mecab/) という形態素解析エンジンを使ってツイートの名詞を抽出した。  
+scrapbox用ハッシュタグを作りたくて [MeCab](https://taku910.github.io/mecab/) という形態素解析エンジンを使ってツイートの名詞を抽出した。  
   
   
 メカブがすごすぎて「はー」以外の感想がないんだけど、僕の日本語がダメすぎてクソみたいなタグが量産されていたので一部手動でクリーニングしている。  

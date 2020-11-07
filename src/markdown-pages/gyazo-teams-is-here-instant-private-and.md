@@ -6,7 +6,7 @@ draft: false
 aliases: [ "/2015/07/gyazo-teams-is-here-instant-private-and.html" ]
 ---
 
-[gyazoapp](http://blog.gyazo.com/post/124855163503/gyazo-teams-is-here-instant-private-and):
+[gyazoapp](https://blog.gyazo.com/post/124855163503/gyazo-teams-is-here-instant-private-and):
 
   
   
@@ -19,13 +19,13 @@ aliases: [ "/2015/07/gyazo-teams-is-here-instant-private-and.html" ]
 > 
 >   
 > 
-> **[Start your free trial today](http://gyazo.com/teams).**
+> **[Start your free trial today](https://gyazo.com/teams).**
 > 
 >   
 > 
 > **Fast, easy sharing, and crystal clear understanding = Better communication.**
 > 
-> ![image](http://68.media.tumblr.com/258d9a51af2551aaedaafb50e6a0d3b1/tumblr_inline_nryf1wxUzC1qekxju_540.png)
+> ![image](https://68.media.tumblr.com/258d9a51af2551aaedaafb50e6a0d3b1/tumblr_inline_nryf1wxUzC1qekxju_540.png)
 > 
 >   
 >   
@@ -39,7 +39,7 @@ aliases: [ "/2015/07/gyazo-teams-is-here-instant-private-and.html" ]
 > 
 > **Sending images instantly in a team chat can enable levels of productivity never before seen.**
 > 
-> ![image](http://68.media.tumblr.com/82026e740a6bd65b52d801487738bd12/tumblr_inline_nryfz7ZxYd1qekxju_540.gif)
+> ![image](https://68.media.tumblr.com/82026e740a6bd65b52d801487738bd12/tumblr_inline_nryfz7ZxYd1qekxju_540.gif)
 > 
 > Imagine a few quick moments of “aha I see what you mean” instead of “can you explain that again?” over and over in your team chat.
 > 
@@ -47,7 +47,7 @@ aliases: [ "/2015/07/gyazo-teams-is-here-instant-private-and.html" ]
 > 
 > **Gyazo Teams works seamlessly with any internal network, project management app, or team chat and can increase productivity from day one.**
 > 
-> ![image](http://68.media.tumblr.com/c579024ae505645b0fb8bda8541549ec/tumblr_inline_nryg32H3xD1qekxju_540.gif)
+> ![image](https://68.media.tumblr.com/c579024ae505645b0fb8bda8541549ec/tumblr_inline_nryg32H3xD1qekxju_540.gif)
 > 
 > To share a screenshot users simply click and drag to select, paste the new link, and press send. After capturing, the image can have text, pointers, or boxes added to highlight or hide important content.  Screenshots let your ideas come through crystal clear every time. The apps are super simple and easy to use so you can get started and begin sharing immediately.
 > 
@@ -55,13 +55,13 @@ aliases: [ "/2015/07/gyazo-teams-is-here-instant-private-and.html" ]
 > 
 > **Control access and privacy with powerful yet simple settings.**
 > 
-> ![image](http://68.media.tumblr.com/0b408c814d6ec4afc128dc7576c38b6d/tumblr_inline_nr0ynyWMfq1qekxju_540.gif)
+> ![image](https://68.media.tumblr.com/0b408c814d6ec4afc128dc7576c38b6d/tumblr_inline_nr0ynyWMfq1qekxju_540.gif)
 > 
 > Viewing private images will require users to log in with an approved email account. Images can also be made unlisted, meaning anyone with the unique link can view them. Now you can get your team on the same page and show your customers and clients exactly what they want.
 > 
 > **Look and feel professional.**
 > 
-> ![image](http://68.media.tumblr.com/98ba597aa87c1fba885cb3de7dd4efba/tumblr_inline_nrygdaILEA1qekxju_540.png)
+> ![image](https://68.media.tumblr.com/98ba597aa87c1fba885cb3de7dd4efba/tumblr_inline_nrygdaILEA1qekxju_540.png)
 > 
 > Add a custom logo and a custom subdomain to reinforce branding and maintain a consistent identity. Every image shared instantly can then speak to customers about your group’s timeliness and professionalism.
 > 
@@ -71,11 +71,11 @@ aliases: [ "/2015/07/gyazo-teams-is-here-instant-private-and.html" ]
 > 
 > **Control user accounts and billing from one place.**
 > 
-> ![image](http://68.media.tumblr.com/f53e61cb05e1cb1b71aff402e2db4d32/tumblr_inline_nr0zfrvXRj1qekxju_540.png)
+> ![image](https://68.media.tumblr.com/f53e61cb05e1cb1b71aff402e2db4d32/tumblr_inline_nr0zfrvXRj1qekxju_540.png)
 > 
 > New users, image visibility, and billing for a whole team can be managed quickly and easily. All settings have been designed to simplify administrative tasks as much as possible.
 > 
-> **[Gyazo Teams is free for a limited time.](http://gyazo.com/teams)**
+> **[Gyazo Teams is free for a limited time.](https://gyazo.com/teams)**
 > 
 >   
 > 
@@ -85,7 +85,7 @@ aliases: [ "/2015/07/gyazo-teams-is-here-instant-private-and.html" ]
 >   
 >   
 > 
-> [Please contact us](http://gyazo.com/contact) for more information and we will be happy to answer any questions.   
+> [Please contact us](https://gyazo.com/contact) for more information and we will be happy to answer any questions.   
 >   
 > Love,
 > 

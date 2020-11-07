@@ -6,7 +6,7 @@ draft: false
 aliases: [ "/2015/09/upcamp.html" ]
 ---
 
-土曜日、オフィスでpastakが徹夜で[ハッカソン](http://connpass.com/event/18564/)していたので鑑賞してきました。
+土曜日、オフィスでpastakが徹夜で[ハッカソン](https://connpass.com/event/18564/)していたので鑑賞してきました。
 
   
   
