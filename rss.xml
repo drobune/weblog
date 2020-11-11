@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Your Site's RSS Feed]]></title><description><![CDATA[Programming, Surfing, Snowboard, Trail, Spearfishing, Free-diving, ...]]></description><link>https://blog.drobune.nl</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 11 Nov 2020 12:18:58 GMT</lastBuildDate><item><title><![CDATA[Bianchi ALU CARBONに乗ってみて]]></title><description><![CDATA[先輩がロードバイクを乗り換えるということで急遽一台いただきました。 かっこいいビアンキのバイクです。 ビアンキ Via NIrone 7Alu Carbon 201…]]></description><link>https://blog.drobune.nl/bianchi/</link><guid isPermaLink="false">https://blog.drobune.nl/bianchi/</guid><pubDate>Fri, 06 Nov 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;先輩がロードバイクを乗り換えるということで急遽一台いただきました。&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Your Site's RSS Feed]]></title><description><![CDATA[Programming, Surfing, Snowboard, Trail, Spearfishing, Free-diving, ...]]></description><link>https://blog.drobune.nl</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 11 Nov 2020 15:12:39 GMT</lastBuildDate><item><title><![CDATA[Bianchi ALU CARBONに乗ってみて]]></title><description><![CDATA[先輩がロードバイクを乗り換えるということで急遽一台いただきました。 かっこいいビアンキのバイクです。 ビアンキ Via NIrone 7Alu Carbon 201…]]></description><link>https://blog.drobune.nl/bianchi/</link><guid isPermaLink="false">https://blog.drobune.nl/bianchi/</guid><pubDate>Fri, 06 Nov 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;先輩がロードバイクを乗り換えるということで急遽一台いただきました。&lt;/p&gt;
 &lt;p&gt;かっこいいビアンキのバイクです。&lt;/p&gt;
 &lt;h4&gt;ビアンキ Via NIrone 7Alu Carbon 2010&lt;/h4&gt;
 &lt;p&gt;&lt;img src=&quot;https://gyazo.com/4bf31d2a01532a95d5dee6d069c68159.png&quot;&gt;&lt;/p&gt;
@@ -8,20 +8,66 @@
 シートステーがカーボンなので踏み始めてから2テンポくらい遅れて加速する印象でした。&lt;/p&gt;
 &lt;p&gt;棚からボタモチで大層喜んだのですが、自分にはすこし大きく感じたので、持つのにふさわしそうな友人に譲ることにしました。&lt;/p&gt;
 &lt;p&gt;次は自分でCANYONのEndurace AL Disc 7.0を買えたらいいなぁ。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://gyazo.com/d91dfb09b8fac8416052c4ce23566129.png&quot;&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[blogをGatsybyにした]]></title><description><![CDATA[リポジトリ https://github.com/drobune/weblog シンタックスハイライト]]></description><link>https://blog.drobune.nl/test/</link><guid isPermaLink="false">https://blog.drobune.nl/test/</guid><pubDate>Sat, 31 Oct 2020 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;リポジトリ&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://gyazo.com/d91dfb09b8fac8416052c4ce23566129.png&quot;&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[ウェブ縄文時代入門]]></title><description><![CDATA[清貧を自称する割に外車SUVを乗り回す憧れのエンジニア @morygonzalez 氏がウェブ縄文時代の到来 という記事を書いていたのに感銘を受けて私も縄文時代をお迎えすることにした。 私もプラットフォーム依存から脱却して安心を得たい。 GatsbyJS…]]></description><link>https://blog.drobune.nl/test/</link><guid isPermaLink="false">https://blog.drobune.nl/test/</guid><pubDate>Sat, 31 Oct 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;清貧を自称する割に外車SUVを乗り回す憧れのエンジニア &lt;a href=&quot;https://portalshit.net/morygonzalez&quot;&gt;@morygonzalez&lt;/a&gt; 氏が&lt;a href=&quot;https://portalshit.net/2020/09/04/the-internet-jomon-period&quot;&gt;ウェブ縄文時代の到来&lt;/a&gt; という記事を書いていたのに感銘を受けて私も縄文時代をお迎えすることにした。&lt;/p&gt;
+&lt;p&gt;私もプラットフォーム依存から脱却して安心を得たい。&lt;/p&gt;
+&lt;p&gt;GatsbyJSを選んだのは最近良くjavascriptを書くからでHUGOにするかすこし迷った。&lt;/p&gt;
+&lt;p&gt;Markdownでブログを書いたことがなかったので今回初挑戦。
+メモはscrapboxをいつも利用させていただいているので &lt;a href=&quot;https://github.com/progfay/scrapbox-parser&quot;&gt;https://github.com/progfay/scrapbox-parser&lt;/a&gt; を使ってscrapboxからコピペでブログ記事にできるようにしたいと考えている。&lt;/p&gt;
+&lt;p&gt;ブログは極力シンプルにしたかったので &lt;a href=&quot;https://github.com/gatsbyjs/gatsby-starter-default&quot;&gt;gatsby-starter-default&lt;/a&gt; ではなく &lt;a href=&quot;https://github.com/gatsbyjs/gatsby-starter-hello-world&quot;&gt;gatsby-starter-hello-world&lt;/a&gt; から始めた。&lt;/p&gt;
+&lt;p&gt;やったことは次の通り。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;bloggerからxmlをエクスポートしてmarkdownに変換
+&lt;a href=&quot;https://github.com/palaniraja/blog2md&quot;&gt;blog2md&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Gatsbyを整えてmarkdownファイルを置く&lt;/li&gt;
+&lt;li&gt;github pagesで公開してカスタムドメインを設定&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;良かった点&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;graphQL便利&lt;/li&gt;
+&lt;li&gt;gatsbyは静的サイトジェネレーターとしてよくできてる&lt;/li&gt;
+&lt;li&gt;シンプルにしたので表示速度速くなった&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;イマイチな点&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;ローカルのgatsby serverが時々cache関連でバグる&lt;/li&gt;
+&lt;li&gt;github pagesは商用OKだと思ってたけど違うかもなのでnetlifyに移行しなきゃいけないかも &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Gatsbyで使った主なプラグイン&lt;/h3&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;react-helmet&lt;/code&gt; meta tagをいじるのに使う&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;styled-components&lt;/code&gt; CSS in JSでコンポーネントにスタイルを施す&lt;/p&gt;
+&lt;p&gt; &lt;code class=&quot;language-text&quot;&gt;gatsby-plugin-feed&lt;/code&gt;  RSSは必須&lt;/p&gt;
+&lt;p&gt;  &lt;code class=&quot;language-text&quot;&gt;gatsby-plugin-typography&lt;/code&gt; いい感じに文書のレイアウトを作ってくれる&lt;/p&gt;
+&lt;p&gt;  &lt;code class=&quot;language-text&quot;&gt;gatsby-remark-prismjs&lt;/code&gt; シンタックスハイライト&lt;/p&gt;
+&lt;p&gt;   こんなの&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;jsx&quot;&gt;&lt;pre style=&quot;counter-reset: linenumber NaN&quot; class=&quot;language-jsx line-numbers&quot;&gt;&lt;code class=&quot;language-jsx&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; React &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;react&quot;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; useStaticQuery&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; graphql &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;gatsby&quot;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; Img &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;gatsby-image&quot;&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;token function-variable function&quot;&gt;Image&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; data &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;useStaticQuery&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;graphql&lt;span class=&quot;token template-string&quot;&gt;&lt;span class=&quot;token template-punctuation string&quot;&gt;`&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;
+ query {
+   placeholderImage: file(relativePath: { eq: &quot;gatsby-astronaut.png&quot; }) {
+     childImageSharp {
+       fluid(maxWidth: 300) {
+         ...GatsbyImageSharpFluid
+       }
+     }
+   }
+ }
+&lt;/span&gt;&lt;span class=&quot;token template-punctuation string&quot;&gt;`&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;!&lt;/span&gt;data&lt;span class=&quot;token operator&quot;&gt;?.&lt;/span&gt;placeholderImage&lt;span class=&quot;token operator&quot;&gt;?.&lt;/span&gt;childImageSharp&lt;span class=&quot;token operator&quot;&gt;?.&lt;/span&gt;fluid&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+ &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;div&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token plain-text&quot;&gt;Picture not found&lt;/span&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;div&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token class-name&quot;&gt;Img&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;fluid&lt;/span&gt;&lt;span class=&quot;token script language-javascript&quot;&gt;&lt;span class=&quot;token script-punctuation punctuation&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;data&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;placeholderImage&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;childImageSharp&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;fluid&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;/&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;export&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;default&lt;/span&gt; Image&lt;/code&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;line-numbers-rows&quot; style=&quot;white-space: normal; width: auto; left: 0;&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;リポジトリ&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/drobune/weblog&quot;&gt;https://github.com/drobune/weblog&lt;/a&gt;&lt;/p&gt;
-&lt;h3&gt;シンタックスハイライト&lt;/h3&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre style=&quot;counter-reset: linenumber NaN&quot; class=&quot;language-javascript line-numbers&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;// In your gatsby-config.js&lt;/span&gt;
-plugins&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;
-  &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-    resolve&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token template-string&quot;&gt;&lt;span class=&quot;token template-punctuation string&quot;&gt;`&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;gatsby-transformer-remark&lt;/span&gt;&lt;span class=&quot;token template-punctuation string&quot;&gt;`&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
-    options&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-      plugins&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;
-        &lt;span class=&quot;token template-string&quot;&gt;&lt;span class=&quot;token template-punctuation string&quot;&gt;`&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;gatsby-remark-prismjs&lt;/span&gt;&lt;span class=&quot;token template-punctuation string&quot;&gt;`&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
-      &lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;
-    &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;/code&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;line-numbers-rows&quot; style=&quot;white-space: normal; width: auto; left: 0;&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Mac + OBS Studio + LoopbackでDJ配信を高音質で行う方法]]></title><description><![CDATA[先日 Twitch を使ってDJ配信をしたのでその方法をシェアします。 Masterのアウトプットをそのまま配信することにこだわりました。スマホのマイクとかを通すと音悪くなるので嫌です。   配信を見てくれた友人からは音は問題なかったと言われました。   Twitch…]]></description><link>https://blog.drobune.nl/mac-obs-studio-loopbackdj/</link><guid isPermaLink="false">https://blog.drobune.nl/mac-obs-studio-loopbackdj/</guid><pubDate>Tue, 21 Apr 2020 08:26:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://1.bp.blogspot.com/-HgAUB8UPoBM/Xp1lgpsSUlI/AAAAAAAAAP4/ktDjwW-9NzMUwf8jck2BY4GIo0IZCtaDACLcBGAsYHQ/s1600/EV90CCTUYAAQgA1.jpeg&quot;&gt;&lt;img src=&quot;https://1.bp.blogspot.com/-HgAUB8UPoBM/Xp1lgpsSUlI/AAAAAAAAAP4/ktDjwW-9NzMUwf8jck2BY4GIo0IZCtaDACLcBGAsYHQ/s640/EV90CCTUYAAQgA1.jpeg&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;細かいメモはそれぞれ記事にする。
+しばらくこんな感じでやってみる&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Mac + OBS Studio + LoopbackでDJ配信を高音質で行う方法]]></title><description><![CDATA[先日 Twitch を使ってDJ配信をしたのでその方法をシェアします。 Masterのアウトプットをそのまま配信することにこだわりました。スマホのマイクとかを通すと音悪くなるので嫌です。   配信を見てくれた友人からは音は問題なかったと言われました。   Twitch…]]></description><link>https://blog.drobune.nl/mac-obs-studio-loopbackdj/</link><guid isPermaLink="false">https://blog.drobune.nl/mac-obs-studio-loopbackdj/</guid><pubDate>Tue, 21 Apr 2020 08:26:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://1.bp.blogspot.com/-HgAUB8UPoBM/Xp1lgpsSUlI/AAAAAAAAAP4/ktDjwW-9NzMUwf8jck2BY4GIo0IZCtaDACLcBGAsYHQ/s1600/EV90CCTUYAAQgA1.jpeg&quot;&gt;&lt;img src=&quot;https://1.bp.blogspot.com/-HgAUB8UPoBM/Xp1lgpsSUlI/AAAAAAAAAP4/ktDjwW-9NzMUwf8jck2BY4GIo0IZCtaDACLcBGAsYHQ/s640/EV90CCTUYAAQgA1.jpeg&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;先日 Twitch を使ってDJ配信をしたのでその方法をシェアします。&lt;br&gt;
 Masterのアウトプットをそのまま配信することにこだわりました。スマホのマイクとかを通すと音悪くなるので嫌です。  &lt;/p&gt;
 &lt;p&gt;配信を見てくれた友人からは音は問題なかったと言われました。  &lt;/p&gt;
