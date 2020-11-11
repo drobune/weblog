@@ -7,7 +7,7 @@ tags: ["javascript", "blog", "gatsby"]
 
 清貧を自称する割に外車SUVを乗り回す憧れのエンジニア [@morygonzalez](https://portalshit.net/morygonzalez) 氏が[ウェブ縄文時代の到来](https://portalshit.net/2020/09/04/the-internet-jomon-period) という記事を書いていたのに感銘を受けて私も縄文時代をお迎えすることにした。
 
-私もプラットフォーム依存から脱却して安心を得たい。
+私もプラットフォーム依存から脱却して安心を得たい。GoogleのbloggerからGatsbyJSで縄文土器もといマイブログを作ることにした。
 
 GatsbyJSを選んだのは最近良くjavascriptを書くからでHUGOにするかすこし迷った。
 
