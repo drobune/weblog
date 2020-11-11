@@ -4,6 +4,7 @@ slug: "/blog/bianchi"
 date: 2020-11-06
 draft: false
 tags : [ロードバイク, photo, ]
+image: https://gyazo.com/4bf31d2a01532a95d5dee6d069c68159.png
 ---
 先輩がロードバイクを乗り換えるということで急遽一台いただきました。
 

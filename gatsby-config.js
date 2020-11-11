@@ -8,6 +8,12 @@ module.exports = {
   /* Your site config here */
   siteMetadata: {
     siteUrl: `https://blog.drobune.nl`,
+    title: `HOME`,
+    titleTemplate: "%s ━━━━━ DROBUNE Weblog",
+    description: `Programming, Surfing, Snowboard, Trail, Spearfishing, Free-diving, ...`,
+    author: `Yuichi Sano`,
+    image: `/blog_logo.jpg`,
+    twitterUserName: '@drobune'
   },
   pathPrefix: "",
   plugins: [
@@ -31,7 +37,8 @@ module.exports = {
         background_color: `#f7f0eb`,
         theme_color: `#a2466c`,
         display: `standalone`,
-        icon: `static/icon.png`
+        icon: `static/icon.png`,
+        twitterUsername: `@drobune`
       },
     },
     {

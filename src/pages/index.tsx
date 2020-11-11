@@ -2,6 +2,7 @@ import React from "react"
 import PostLink, {PostData} from "../components/postlink"
 import { graphql, Link } from "gatsby"
 import TagIndex from "../components/tagIndex"
+import SEO from "../components/seo"
 
 const IndexPage = ({
                      data: {
@@ -19,6 +20,7 @@ const IndexPage = ({
     .map(edge => <PostLink key={edge.node.id} post={edge.node}/>)
   return(
   <div>
+    <SEO title={`Home`} />
     <h1>DROBUNE Weblog</h1>
     <h3>Posts</h3>
     <div>{Posts}</div>
