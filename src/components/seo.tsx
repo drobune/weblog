@@ -62,7 +62,7 @@ function SEO({ description, lang, meta, title, image }: SEOData) {
           content: imageUrl,
         },
         {
-          property: "twitter:image",
+          name: "twitter:image",
           content: imageUrl,
         },
         {

@@ -12,7 +12,7 @@ module.exports = {
     titleTemplate: "%s ━━━━━ DROBUNE Weblog",
     description: `Programming, Surfing, Snowboard, Trail, Spearfishing, Free-diving, ...`,
     author: `Yuichi Sano`,
-    image: `/blog_logo.jpg`,
+    image: `https://blog.drobune.nl/blog_logo.jpg`,
     twitterUserName: '@drobune'
   },
   pathPrefix: "",
