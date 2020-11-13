@@ -1,1 +1,1 @@
-{"componentChunkName":"component---src-templates-tags-tsx","path":"/tags/ゲーム/","result":{"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/amazonpc/"},"frontmatter":{"title":"AmazonだけでゲーミングPCを組んだ感想"}}}]}},"pageContext":{"tag":"ゲーム"}},"staticQueryHashes":[]}
+{"componentChunkName":"component---src-templates-tags-tsx","path":"/tags/ゲーム","result":{"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/amazonpc/"},"frontmatter":{"title":"AmazonだけでゲーミングPCを組んだ感想"}}}]}},"pageContext":{"tag":"ゲーム"}},"staticQueryHashes":[]}
