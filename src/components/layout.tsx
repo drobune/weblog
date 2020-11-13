@@ -2,6 +2,7 @@ import * as React from "react"
 import {Helmet} from "react-helmet"
 import Navbar from "./navBar"
 import styled from "styled-components"
+import "prismjs/themes/prism-coy.css"
 
 const BodyContainer = styled.div`
 margin: 0 auto;
