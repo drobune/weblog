@@ -49,7 +49,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   const posts = result.data.postsRemark.edges
     posts.forEach(({node}) => {
     createPage({
-      path: node.frontmatter.slug,
+      path: `${node.frontmatter.slug}/`,
       component: blogPostTemplate,
       context: {
         // additional data can be passed via context
@@ -71,7 +71,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
 
   const tagList = path.resolve("src/pages/tags.tsx")
   createPage({
-    path: '/tags',
+    path: '/tags/',
     component: tagList
   })
 }
