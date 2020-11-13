@@ -90,6 +90,7 @@ SEO.defaultProps = {
   lang: `ja`,
   meta: [],
   description: ``,
+  image: '/blog_logo.jpg'
 }
 
 SEO.propTypes = {
@@ -97,6 +98,7 @@ SEO.propTypes = {
   lang: PropTypes.string,
   meta: PropTypes.arrayOf(PropTypes.object),
   title: PropTypes.string.isRequired,
+  image: PropTypes.string
 }
 
 export default SEO
