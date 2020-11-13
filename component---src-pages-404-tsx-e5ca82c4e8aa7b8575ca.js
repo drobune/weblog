@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{"i6+/":function(n,e,t){"use strict";t.r(e),t.d(e,"default",(function(){return l}));var u=t("q1tI"),a=t.n(u);function l(){return a.a.createElement("div",null,a.a.createElement("h1",null,"Page Not Found"),a.a.createElement("p",null,"Oops, we couldn't find this page!"))}}}]);
+//# sourceMappingURL=component---src-pages-404-tsx-e5ca82c4e8aa7b8575ca.js.map
