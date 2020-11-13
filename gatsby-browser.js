@@ -1,5 +1,5 @@
 import "prismjs/themes/prism-coy.css"
-import * as React from "react"
+import React from "react"
 import Layout from "./src/components/layout"
 
 // Logs when the client route changes

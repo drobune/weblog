@@ -9,7 +9,7 @@ max-width: 650px;
 padding 0 1rem;
 `
 
-const Layout: React.FC = ({ children }) => (
+const Layout: React.FC =  ({ children }) => (
   <div>
     <Helmet>
       <title>"DROBUNE weblog"</title>
