@@ -24,7 +24,7 @@ export default function Template({
         />
       </div>
       { frontmatter.tags?.map((tagName) => { return (
-        <span>
+        <span key={`${tagName}-tag`}>
             <Link to={`/tags/${tagName}`}>#{tagName}&nbsp;&nbsp;</Link>
         </span>
       )})}
