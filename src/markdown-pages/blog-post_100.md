@@ -53,7 +53,7 @@ tags : [子育て, ピアノ]
 僕が子供の頃から夢だったショパンの幻想即興曲をいつか息子弾いてくれたら、無上の喜びに他ならない。
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OPUvMiksPoo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-とにかく続けていてほしい。
+とにかく続けてほしい。
 
 真実に向かおうとする意志があれば、たとえ失敗したとしても、いつかたどり着くだろう？...
-向かっているわけだけだからな...違うかい？
+向かっているわけだからな...違うかい？
