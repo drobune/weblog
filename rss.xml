@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Your Site's RSS Feed]]></title><description><![CDATA[Programming, Surfing, Snowboard, Trail, Spearfishing, Free-diving, ...]]></description><link>https://blog.drobune.nl</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 18 Nov 2020 14:24:30 GMT</lastBuildDate><item><title><![CDATA[ADHDとトーパミンハックについて]]></title><description><![CDATA[今年の夏頃、心療内科でADHD…]]></description><link>https://blog.drobune.nl/blog-post_101/</link><guid isPermaLink="false">https://blog.drobune.nl/blog-post_101/</guid><pubDate>Wed, 18 Nov 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;今年の夏頃、心療内科でADHDの診断をいただきコンサータを処方してもらった。&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Your Site's RSS Feed]]></title><description><![CDATA[Programming, Surfing, Snowboard, Trail, Spearfishing, Free-diving, ...]]></description><link>https://blog.drobune.nl</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 18 Nov 2020 14:53:07 GMT</lastBuildDate><item><title><![CDATA[ADHDとトーパミンハックについて]]></title><description><![CDATA[今年の夏頃、心療内科でADHD…]]></description><link>https://blog.drobune.nl/blog-post_101/</link><guid isPermaLink="false">https://blog.drobune.nl/blog-post_101/</guid><pubDate>Wed, 18 Nov 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;今年の夏頃、心療内科でADHDの診断をいただきコンサータを処方してもらった。&lt;/p&gt;
 &lt;p&gt;主な症状はネットでしらべてもらえれば無限に出てくるので割愛するけど、僕は不注意が強いとのことだった。&lt;/p&gt;
 &lt;p&gt;薬を飲んで十分ほどで焦燥感がなくなり、頭の中が静かになってビックリしたのを覚えている。&lt;/p&gt;
 &lt;p&gt;普通の人はこんなに静かな気持ちで１日を過ごせるのか、と。&lt;/p&gt;
@@ -21,7 +21,22 @@
 &lt;p&gt;この本には、脳をうまく使ってパフォーマンスを向上するための実践的テクニックや検証方法が書かれている。
 脳に興味があったり、本を読むことで現実世界で得をしたいと願う人は楽しく読めると思う。&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/4873114039/?tag=5an0-22&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;https://m.media-amazon.com/images/I/41cOFPQCwXL._SL200_.jpg&quot; alt=&quot;4873114039&quot; border=&quot;0&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/4873114039/?tag=5an0-22&quot; target=&quot;_blank&quot;&gt;リファクタリング・ウェットウェア ―達人プログラマーの思考法と学習法&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[ピアノ発表会]]></title><description><![CDATA[毎年恒例の息子のピアノの発表会へ行ってきた。
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/4873114039/?tag=5an0-22&quot; target=&quot;_blank&quot;&gt;リファクタリング・ウェットウェア ―達人プログラマーの思考法と学習法&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[GatsbyJSの初回ロード時にスタイルが一部崩れる]]></title><description><![CDATA[一部のページで初回アクセスのときだけ一部のスタイルが崩れる現象に困ったのでその対処法をメモ。 期待される表示  初回アクセス時の表示  リロードすると期待される表示になる。 URLのtrailing slashがあると30…]]></description><link>https://blog.drobune.nl/blog-post_102/</link><guid isPermaLink="false">https://blog.drobune.nl/blog-post_102/</guid><pubDate>Wed, 18 Nov 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;一部のページで初回アクセスのときだけ一部のスタイルが崩れる現象に困ったのでその対処法をメモ。&lt;/p&gt;
+&lt;h3&gt;期待される表示&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://gyazo.com/598cb024b47246c480d6bbf83da33c74.png&quot;&gt;&lt;/p&gt;
+&lt;h3&gt;初回アクセス時の表示&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;https://gyazo.com/c6c2ae6c228d9519786984284e040d9d.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;リロードすると期待される表示になる。&lt;/p&gt;
+&lt;p&gt;URLのtrailing slashがあると301リダイレクトされるので、それが原因かと疑ったが違った。&lt;/p&gt;
+&lt;p&gt;結局gatsby-browser.jsのここ問題だったようでLayoutを呼ぶ場所をブラウザ側ではなくSSG側にもっていくことで解消した。&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;diff&quot;&gt;&lt;pre style=&quot;counter-reset: linenumber NaN&quot; class=&quot;language-diff-jsx line-numbers&quot;&gt;&lt;code class=&quot;language-diff-jsx&quot;&gt;&lt;span class=&quot;token deleted-sign deleted&quot;&gt;&lt;span class=&quot;token prefix deleted&quot;&gt;-&lt;/span&gt; import Layout from &quot;./src/components/layout&quot;
+&lt;/span&gt;
+&lt;span class=&quot;token deleted-sign deleted&quot;&gt;&lt;span class=&quot;token prefix deleted&quot;&gt;-&lt;/span&gt; export const wrapPageElement = ({ element, props }) =&gt; {
+&lt;span class=&quot;token prefix deleted&quot;&gt;-&lt;/span&gt;   return &amp;lt;Layout {...props}&gt;{element}&amp;lt;/Layout&gt;
+&lt;span class=&quot;token prefix deleted&quot;&gt;-&lt;/span&gt; }&lt;/span&gt;&lt;/code&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;line-numbers-rows&quot; style=&quot;white-space: normal; width: auto; left: 0;&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;コミット
+&lt;a href=&quot;https://github.com/drobune/weblog/commit/1916ea3a6902040b39100c1f7e7c29dbeef19f79#diff-2f15e01c012970971795674aff1caf0619691d7d47cfe1b5be49ac414bac09a2&quot;&gt;dfdf1b6 &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;gatsby-browser.jsファイルはブラウザで実行されるときの共通処理を書いたりするという認識なんだけど公式の通りCommonJSで書いたらエラーになったりするのでイマイチよくわかってない...&lt;/p&gt;</content:encoded></item><item><title><![CDATA[ピアノ発表会]]></title><description><![CDATA[毎年恒例の息子のピアノの発表会へ行ってきた。
 発表曲は２曲 ギロック作 ソナチネ第3楽章 安倍美穂作 試練 両曲ともミスらしいミスはなく上手に弾けていた。 が、安心して観ていたかというと全くそうではなかった。 発表会の…]]></description><link>https://blog.drobune.nl/blog-post_100/</link><guid isPermaLink="false">https://blog.drobune.nl/blog-post_100/</guid><pubDate>Fri, 06 Nov 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;毎年恒例の息子のピアノの発表会へ行ってきた。
 発表曲は２曲&lt;/p&gt;
 &lt;p&gt;ギロック作 ソナチネ第3楽章&lt;/p&gt;
