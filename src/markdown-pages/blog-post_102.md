@@ -7,10 +7,10 @@ tags : [javascript, gatsby]
 ---
 
 
-一部のページで初回アクセスのときだけ一部のスタイルが崩れる現象に困ったのでその対処法をメモ。
+一部のページで初回アクセスのときだけスタイルが崩れる現象に困ったのでその対処法をメモ。
 
 
-### 期待される表示
+### 期待する表示
 
 
 ![](https://gyazo.com/598cb024b47246c480d6bbf83da33c74.png)
@@ -19,11 +19,9 @@ tags : [javascript, gatsby]
 
 ![](https://gyazo.com/c6c2ae6c228d9519786984284e040d9d.png)
 
-リロードすると期待される表示になる。
+リロードすると期待する表示になる。
 
-URLのtrailing slashがあると301リダイレクトされるので、それが原因かと疑ったが違った。
-
-結局gatsby-browser.jsのここ問題だったようでLayoutを呼ぶ場所をブラウザ側ではなくSSG側にもっていくことで解消した。
+gatsby-browser.jsのここが問題だったようでLayoutを呼ぶ場所をブラウザ側ではなくSSG側にもっていくことで解消した。
 
 ```diff-jsx
 - import Layout from "./src/components/layout"
