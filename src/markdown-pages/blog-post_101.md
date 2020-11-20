@@ -1,5 +1,5 @@
 ---
-title: 'ADHDとトーパミンハックについて'
+title: 'ADHDとドーパミンハックについて'
 slug: "/blog/blog-post_101"
 date: 2020-11-18
 draft: false
