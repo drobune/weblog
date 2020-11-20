@@ -1,6 +1,6 @@
 ---
 title: '一人会社の定款変更を自力でやる'
-slug: "/blog/blog-post_101"
+slug: "/blog/blog-post_102"
 date: 2020-11-20
 draft: false
 tags : [会社]
