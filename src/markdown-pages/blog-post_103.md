@@ -3,6 +3,7 @@ title: '琵琶湖しゃかりきライド'
 slug: "/blog/blog-post_103"
 date: 2020-10-31
 draft: false
+image: "https://gyazo.com/c308315442a14483fdc23745138acf1b.jpg"
 tags : [ロードバイク, ツーリング]
 ---
 
