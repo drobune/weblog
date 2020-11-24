@@ -1,5 +1,5 @@
 ---
-title: '2014-12-01'
+title: '日記'
 slug: "/blog/blog-post_1"
 date: 2014-12-01T04:29:00.000+09:00
 draft: false
