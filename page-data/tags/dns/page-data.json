@@ -1,0 +1,1 @@
+{"componentChunkName":"component---src-templates-tags-tsx","path":"/tags/dns/","result":{"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/qiita7eb11decb54ecbff82a3/"},"frontmatter":{"title":"herokuアプリで任意のサブドメインを使う。-DNSまわりの設定-"}}}]}},"pageContext":{"tag":"dns"}},"staticQueryHashes":["1342192543"]}
