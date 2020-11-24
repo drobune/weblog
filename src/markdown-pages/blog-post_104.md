@@ -1,6 +1,6 @@
 ---
 title: 'Qiitaからお引越し'
-slug: "/blog/blog-post_103"
+slug: "/blog/blog-post_104"
 date: 2020-11-24
 draft: false
 tags : [blog]
