@@ -10,11 +10,14 @@ tags : [子育て, ピアノ]
 発表曲は２曲
 
 ギロック作 ソナチネ第3楽章
+<div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xe25yWQZJzE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+</div>
 
 安倍美穂作 試練
+<div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gAsUsa51rZQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 両曲ともミスらしいミスはなく上手に弾けていた。
 
@@ -38,7 +41,9 @@ tags : [子育て, ピアノ]
 ちなみに去年は平吉毅州の真夜中の火祭りだった。
 
 
+<div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/icyEA79sB-s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
   
 
 去年は直前でもミス連発だったので死ぬほどハラハラしたのを覚えている。
@@ -51,7 +56,10 @@ tags : [子育て, ピアノ]
 
 
 僕が子供の頃から夢だったショパンの幻想即興曲をいつか息子弾いてくれたら、無上の喜びに他ならない。
+
+<div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OPUvMiksPoo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 とにかく続けてほしい。
 
