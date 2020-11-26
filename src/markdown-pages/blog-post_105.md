@@ -25,8 +25,9 @@ Torren Martynがニュージーランドをバイクでサーフトリップす�
 
 トラディショナルスタイルを上手にモダンに洗練していてハイパフォーマンスな感じがしています。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OGdoJpCoItg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/OGdoJpCoItg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 バイクでサーフトリップをするならオフロードも走れる車高と重心が高いものがよさそうですが、もう一台買うような資金はないし情緒的な趣もあるので、なんとかスティードでサーフトリップしたいです。
 
