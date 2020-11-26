@@ -4,7 +4,7 @@ slug: "/blog/blog-post_65"
 date: 2014-10-22T18:04:00.000+09:00
 draft: false
 aliases: [ "/2014/10/blog-post_65.html" ]
-tags : [surf, photo]
+tags : [サーフィン,  photo]
 ---
 
   

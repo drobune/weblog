@@ -1,10 +1,10 @@
 ---
-title: '八丁浜 Kyoto'
+title: '八丁浜'
 slug: "/blog/kyoto"
 date: 2015-01-24T17:46:00.000+09:00
 draft: false
 aliases: [ "/2015/01/kyoto.html" ]
-tags : [surf, photo]
+tags : [サーフィン, 写真]
 ---
 
   

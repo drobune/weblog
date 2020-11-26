@@ -4,7 +4,7 @@ slug: "/blog/surf-japan"
 date: 2015-07-12T01:48:00.000+09:00
 draft: false
 aliases: [ "/2015/07/surf-japan.html" ]
-tags : [surf, サーフィン, 磯ノ浦, photo]
+tags : [サーフィン, 磯ノ浦, 写真]
 ---
 
   
