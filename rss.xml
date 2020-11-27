@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Your Site's RSS Feed]]></title><description><![CDATA[Programming, Surfing, Snowboard, Trail, Spearfishing, Free-diving, ...]]></description><link>https://blog.drobune.nl</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 27 Nov 2020 04:51:39 GMT</lastBuildDate><item><title><![CDATA[Qiitaからお引越し]]></title><description><![CDATA[ライブラリ https://github.com/increments/qiita-rb を使って引っ越した。 今年炎上してたけどあんまりみてなくて、久しぶりにみたらContributionが438もあった。 ありがとうQiita。 htmlからmarkdown…]]></description><link>https://blog.drobune.nl/blog-post_104/</link><guid isPermaLink="false">https://blog.drobune.nl/blog-post_104/</guid><pubDate>Tue, 24 Nov 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;ライブラリ &lt;a href=&quot;https://github.com/increments/qiita-rb&quot;&gt;https://github.com/increments/qiita-rb&lt;/a&gt; を使って引っ越した。&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Your Site's RSS Feed]]></title><description><![CDATA[Programming, Surfing, Snowboard, Trail, Spearfishing, Free-diving, ...]]></description><link>https://blog.drobune.nl</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 27 Nov 2020 15:17:31 GMT</lastBuildDate><item><title><![CDATA[Qiitaからお引越し]]></title><description><![CDATA[ライブラリ https://github.com/increments/qiita-rb を使って引っ越した。 今年炎上してたけどあんまりみてなくて、久しぶりにみたらContributionが438もあった。 ありがとうQiita。 htmlからmarkdown…]]></description><link>https://blog.drobune.nl/blog-post_104/</link><guid isPermaLink="false">https://blog.drobune.nl/blog-post_104/</guid><pubDate>Tue, 24 Nov 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;ライブラリ &lt;a href=&quot;https://github.com/increments/qiita-rb&quot;&gt;https://github.com/increments/qiita-rb&lt;/a&gt; を使って引っ越した。&lt;/p&gt;
 &lt;p&gt;今年炎上してたけどあんまりみてなくて、久しぶりにみたらContributionが438もあった。&lt;/p&gt;
 &lt;p&gt;ありがとうQiita。&lt;/p&gt;
 &lt;p&gt;htmlからmarkdownに変換が面倒だったのでソノママブッコミ。&lt;/p&gt;
@@ -57,32 +57,36 @@ response&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;body&lt;sp
  
 令和○年〇〇月〇〇日　〇〇時〇〇分、当会社の本店において、臨時株主総会を開催した。
 
-株主の総数　-名
-発行済株式の総数　---株
-議決権を行使できる株主の数　-名
-出席株主数　-名
-出席 代表取締役　〇〇
+株主の総数　１名
+発行済株式の総数　１０株
+議決権を行使できる株主の数　１名
+議決権を行使することができる株主の議決権の数　１０個
+出席株主数（委任状による者を含む）　１名
+出席株主の議決権の数　１０個
 
-以下の議題について決議を明確にするため，この議事録を作り，議事録作成者がこれに記名押印する。
+出席者
+代表取締役　〇〇〇〇
+
+以上のとおり株主の出席があったので、代表取締役佐野友一は議長席に着き、開会を宣し、
+直ちに議事に入った。議長は、定款変更の事由を説明し、下記の議案につきその賛否を諮ったところ、
+満場一致をもってこれを承認可決した。
+
+下記の決議を明確にするため，この議事録を作り，議事録作成者がこれに記名押印する。
 
 １．定款変更の件
 定款第一条を次のとおり変更すること。
-（商号）
-第一条　当会社は、株式会社hogehogeと称する。（ ※１）
-定款第二条を次のとおり変更すること。
 （目的）
-第二条　当会社は、次の事業を営むことを目的とする。（ ※２）
-（１）インターネットでの広告業務
-（２）インターネット等を通しての通信販売業務
-（３）電子計算機及びコンピューターによる計算業務の受託
-（４）文房具及びオフィスコンピューターの事務用機器販売
-（５）経営コンサルタント業
-（６）不動産の売買、賃貸及びその仲介、斡旋、管理
-（７）前各号に付帯する一切の事業
+第２条　当会社は、次の事業を営むことを目的とする。
+１．コンピュータシステム及びコンピュータソフトウェアの企画、開発及び販売
+２．ウェブサイトの企画、設計、開発、運営及び販売
+３．コンピュータ及びその周辺機器の販売、レンタル、リース及び保守
+４．介護保険法に基づく居宅介護支援事業
+５．有価証券、不動産、その他金融商品への投資及び運用
+６．前各号に附帯関連する一切の事業
  
 令和○年〇〇月〇〇日 株式会社〇〇　
 臨時株主総会
-議事録作成者 代表取締役 〇〇　 印 &amp;lt;-------ここは個人の印鑑&lt;/code&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;line-numbers-rows&quot; style=&quot;white-space: normal; width: auto; left: 0;&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;
+議事録作成者 代表取締役 〇〇　 印 &amp;lt;-------ここは個人の印鑑&lt;/code&gt;&lt;span aria-hidden=&quot;true&quot; class=&quot;line-numbers-rows&quot; style=&quot;white-space: normal; width: auto; left: 0;&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;h3&gt;株主リストを作る&lt;/h3&gt;
 &lt;p&gt;法務省がエクセルテンプレートを配布しているのでそれに則る&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://www.moj.go.jp/MINJI/minji06_00095.html&quot;&gt;http://www.moj.go.jp/MINJI/minji06_00095.html&lt;/a&gt;&lt;/p&gt;
