@@ -224,14 +224,13 @@
 <url> <loc>https://blog.drobune.nl/tags/vimeo/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.drobune.nl/tags/wagon/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.drobune.nl/tags/workstyle/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://blog.drobune.nl/tags/　カレー/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://blog.drobune.nl/tags/　グルメ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://blog.drobune.nl/tags/　ラーメン/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.drobune.nl/tags/カレー/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.drobune.nl/tags/キャンピングカー/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.drobune.nl/tags/グルメ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.drobune.nl/tags/ゲーム/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.drobune.nl/tags/サーフィン/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.drobune.nl/tags/ツーリング/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.drobune.nl/tags/トレイルランニング/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.drobune.nl/tags/ドーパミンハック/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.drobune.nl/tags/ノマド/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.drobune.nl/tags/バイク/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -240,7 +239,8 @@
 <url> <loc>https://blog.drobune.nl/tags/ブラックバス/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.drobune.nl/tags/プログラミング/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.drobune.nl/tags/メモ帳/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://blog.drobune.nl/tags/ランニング トレイルランニング/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.drobune.nl/tags/ランニング/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://blog.drobune.nl/tags/ラーメン/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.drobune.nl/tags/ロリポップ/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.drobune.nl/tags/ロードバイク/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://blog.drobune.nl/tags/京都/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
