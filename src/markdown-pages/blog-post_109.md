@@ -3,7 +3,7 @@ title: 'マーボーカレー'
 slug: "/blog/blog-post_109"
 date: 2020-11-24
 draft: false
-tags : [京都,　カレー, グルメ]
+tags : [京都,カレー,グルメ]
 image: https://gyazo.com/3880f676e999666f083b3b1085ebf391.jpg
 ---
 

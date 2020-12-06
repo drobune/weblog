@@ -3,7 +3,7 @@ title: '大黒ラーメンと新池湯'
 slug: "/blog/blog-post_110"
 date: 2020-11-27
 draft: false
-tags : [京都,　ラーメン,　グルメ, 銭湯]
+tags : [京都,ラーメン,グルメ,銭湯]
 image: https://gyazo.com/c4dd8e4c5b26f9eaa7c7b45692c14348.jpg
 ---
 
