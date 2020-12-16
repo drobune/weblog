@@ -29,7 +29,7 @@ image: https://gyazo.com/4a489f5db5b3b1b6f05863791065edb4.jpg
 
 葛川沿いを降りて先輩は鯖寿司をお土産に。一本12,000円の鯖寿司があったらしいです...
 
-![(https://gyazo.com/2b7df899acb5ad706bbf6269f015a134.jpg)]
+![](https://gyazo.com/2b7df899acb5ad706bbf6269f015a134.jpg)
 ![](https://gyazo.com/4a489f5db5b3b1b6f05863791065edb4.jpg)
 
 
